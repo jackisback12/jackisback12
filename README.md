@@ -1,4 +1,4 @@
-- 👋 Hi, I’m coding
+- 👋 Hi, I’m jackisback12
 - 👀 I’m interested C,C++
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on Frontend job
